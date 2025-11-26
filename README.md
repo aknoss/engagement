@@ -9,13 +9,13 @@ The game is built using React and Typescript.
 npm install
 ```
 
-# Run
+## Run
 
 ```
 npm start
 ```
 
-# Develop
+## Develop
 
 ```
 npm run dev
